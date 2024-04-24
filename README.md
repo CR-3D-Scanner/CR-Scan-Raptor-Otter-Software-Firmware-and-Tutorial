@@ -21,6 +21,9 @@ https://www.creality.com/pages/download-cr-scan-ferret
 
 [CR-Scan Ferret](https://www.notion.so/cr-scan/Tutorials-on-Creality-CR-Scan-Ferret-Series-3D-Scanner-6c18b125758f40c594b8935c9ef09188)
 
+## Firmware
+[Raptor/Otter/Ferret](https://www.crealitycloud.com/software-firmware/other/type-26)
+
 ## Video Tutorials
 
 [Raptor](https://www.youtube.com/playlist?list=PL6oK7YUSEc4_c1X9X5R1nfKhNnTw-1CSl)
