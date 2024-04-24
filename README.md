@@ -37,4 +37,5 @@ More about Creality's 3D scanners
 
 https://wiki.creality.com/3d-scanner
 
-
+![face-otter][https://cr-scan.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe809159e-6c03-4a12-865c-4ce88e99d8d5%2Fc835e3d0-3c98-47d2-b761-71229a110e72%2FUntitled.png?table=block&id=dcb5fe3a-446f-4632-8f14-fedc54261e8a&spaceId=e809159e-6c03-4a12-865c-4ce88e99d8d5&width=2000&userId=&cache=v2]
+Face model by Otter
