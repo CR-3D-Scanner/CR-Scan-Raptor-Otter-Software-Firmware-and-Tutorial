@@ -20,7 +20,7 @@ Models by Raptor
 
 [CR-Scan Otter](https://cr-scan.notion.site/Tutorials-on-CR-Scan-Otter-c4deb3cd95b44453b560ae2cce681d90?pvs=74)
 
-[CR-Scan Ferret](https://www.notion.so/cr-scan/Tutorials-on-Creality-CR-Scan-Ferret-Series-3D-Scanner-6c18b125758f40c594b8935c9ef09188)
+[CR-Scan Ferret](https://cr-scan.notion.site/Tutorials-on-Creality-CR-Scan-Ferret-Series-3D-Scanner-6c18b125758f40c594b8935c9ef09188)
 
 ## Firmware
 [Raptor/Otter/Ferret](https://www.crealitycloud.com/software-firmware/other/type-26)
