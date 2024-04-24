@@ -1,4 +1,4 @@
-Here, 
+Here are some links for Creality’s 3D scanners, including software and operation tutorials. Hopefully, they will be helpful to users of these scanners.
 
 # Software
 
