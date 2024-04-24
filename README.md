@@ -13,6 +13,7 @@ For users of CR-Scan Ferret, they can download the software from:
 https://www.creality.com/pages/download-cr-scan-ferret
 
 ![raptor-model](https://cr-scan.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe809159e-6c03-4a12-865c-4ce88e99d8d5%2F649b4e1f-8222-456c-8e67-ff219e03a367%2FUntitled.png?table=block&id=62536703-8e51-4e3a-8f93-ee359316ae12&spaceId=e809159e-6c03-4a12-865c-4ce88e99d8d5&width=2000&userId=&cache=v2)
+Models by Raptor
 
 ## Tutorial (How to get a good scan?)
 [CR-Scan Raptor](https://cr-scan.notion.site/Tutorials-on-CR-Scan-Raptor-bf941761ea5b4d4383569f7bc390bf40?pvs=74)
